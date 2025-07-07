@@ -12,6 +12,7 @@ onMounted(() => {
     <Button type="primary" size="large" :plain="true" circle disabled ref="buttonRef">按钮</Button>
     <div></div>
     <div></div>
+    <div></div>
 </template>
 
 <style scoped></style>
