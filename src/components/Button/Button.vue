@@ -3,7 +3,7 @@
         class="vk-button"
         :class="{
             [`fx-button--${props.type}`]: props.type,
-            [`vk-button--${props.size}`]: props.size,
+            [`fx-button--${props.size}`]: props.size,
             'is-plain': props.plain,
             'is-round': props.round,
             'is-circle': props.circle,
